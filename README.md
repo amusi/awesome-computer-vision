@@ -210,9 +210,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) - IPAM, 2012
  * [Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/machine/)
  * [Machine Learning Summer School](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ) - Reykjavik, Iceland 2014
-	* [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal)
-	* [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
-	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
+  * [Deep Learning Session 1](https://www.youtube.com/watch?v=JuimBuvEWBg) - Yoshua Bengio (Universtiy of Montreal)
+  * [Deep Learning Session 2](https://www.youtube.com/watch?v=Fl-W7_z3w3o) - Yoshua Bengio (University of Montreal)
+  * [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
 
@@ -259,6 +259,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
   * Stefan Leutenegger, Margarita Chli and Roland Siegwart, "BRISK: Binary Robust Invariant Scalable Keypoints", ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
   * Herbert Bay, Andreas Ess, Tinne Tuytelaars, Luc Van Gool, "SURF: Speeded Up Robust Features", Computer Vision and Image Understanding (CVIU), Vol. 110, No. 3, pp. 346--359, 2008
+* [ORB](https://en.wikipedia.org/wiki/Oriented_FAST_and_rotated_BRIEF)
+  - Rublee, Ethan, et al. "ORB: An efficient alternative to SIFT or SURF." *IEEE International Conference on Computer Vision* IEEE, 2012:2564-2571.
 * [FREAK](http://www.ivpe.com/freak.htm)
   * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
@@ -716,7 +718,7 @@ Non-uniform Deblurring
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
-*
+  *
 ## Songs
 * [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 * [The RANSAC Song](http://danielwedge.com/ransac/)
